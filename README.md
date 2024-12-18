@@ -1,7 +1,7 @@
 Methodology:
 • Exploratory Data Analysis (EDA): A comprehensive initial analysis of the dataset was 
 conducted to understand its characteristics, identify potential issues, and gain insights into 
-customer behavior.
+customer behavior and purchasing habits.
 • Data Cleaning: Data cleaning procedures addressed missing values, inconsistencies, and 
 outliers to ensure data quality for downstream analysis.
 • Association Rule Learning: Association rule learning was employed to identify 
